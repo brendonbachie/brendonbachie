@@ -92,53 +92,26 @@
         alt="my_standard_lib" />
     </a>
     <h3>Rank 1</h3>
-    <a href="https://github.com/rapha4lx/ft_printf/settings" target="blank">
+    <a href="https://github.com/brendonbachie/42-Rio/tree/main/printf-bonus" target="blank">
         <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/ft_printfe.png"
+            src="https://github.com/brendonbachie/42-project-badges/raw/main/badges/ft_printfm.png"
         alt="" />
     </a>
-    <a href="https://github.com/rapha4lx/get_next_line" target="blank">
+    <a href="https://github.com/brendonbachie/42-Rio/tree/main/Get_Next_Line" target="blank">
         <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/get_next_linem.png"
+            src="https://github.com/brendonbachie/42-project-badges/raw/main/badges/get_next_linem.png"
         alt="" />
     </a>
     <a href="" target="blank">
         <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/born2berootm.png"
+            src="https://github.com/brendonbachie/42-project-badges/raw/main/badges/born2berootm.png"
         alt="" />
     </a>
     <h3>Rank 2</h3>
-    <a href="https://github.com/rapha4lx/FdF" target="blank">
+    <a href="https://github.com/brendonbachie/42-Rio/tree/main/push_swap" target="blank">
         <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/fdfm.png"
+            src="https://github.com/brendonbachie/42-project-badges/raw/main/badges/push_swapm.png"
         alt="" />
-    </a>
-    <a href="https://github.com/rapha4lx/Mini_Talk" target="blank">
-        <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/minitalkn.png"
-        alt="" />
-    </a>
-    <a href="https://github.com/rapha4lx/pipex" target="blank">
-        <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/pipexe.png"
-        alt="" />
-    </a>
-    <a href="https://github.com/rapha4lx/push_swap" target="blank">
-        <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/push_swape.png"
-        alt="" />
-    </a>
-    <h3>Rank 3</h3>
-    <a href="https://github.com/rapha4lx/minishell" target="blank">
-        <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/minishelle.png"
-        alt="minishell" />
-    </a>
-    <a href="https://github.com/rapha4lx/Philosophers_ft" target="blank">
-        <img align="center"
-            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/philosopherse.png"
-        alt="minishell" />
-    </a>
 </div>
 
 <!-- DIV GIT STATICS -->
