@@ -42,37 +42,21 @@
         alt="C"/>
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=py"
-            title="CS"
+            title="Python"
         alt="CS"/>
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=bash"
             title="bash"
         alt="bash"/>
-        <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=debian"
-            title="JS"
-        alt="JS"/>
+        <h3 align="center">Technologies and Tools</h3>
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=linux"
-            title="HTML"
+            title="Linux"
         alt="HTML"/>
-        <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=redhat"
-            title="CSS"
-        alt="CSS"/>
-        <h3 align="center">Technologies and Tools</h3>
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=git"
             title="Git"
         alt="Git"/>
-        <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=ubuntu"
-            title="Linux"
-        alt="Linux"/>
-        <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=kali"
-            title="CloudFlare"
-        alt="CloudFlare"/>
     </p>
 </div>
 
