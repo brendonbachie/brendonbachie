@@ -119,6 +119,6 @@
     <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60" height="30" style="margin-right: 10px;">GitHub Statics</h1>
 
 <img align="center"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/rapha4lx?cardType=level&theme=radical&preferLogin=false"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/brendonbachie?cardType=level&theme=radical&preferLogin=false"
 />
 </div>
