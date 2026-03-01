@@ -88,7 +88,7 @@
     <h3>Rank 0</h3>
     <a href="https://github.com/brendonbachie/Libft" target="blank">
         <img align="center"
-            src="https://github.com/brendonbachie/42-project-badges/tree/main/badges/libftm.png"
+            src="https://github.com/brendonbachie/42-project-badges/raw/main/badges/libftm.png"
         alt="my_standard_lib" />
     </a>
     <h3>Rank 1</h3>
