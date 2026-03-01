@@ -7,9 +7,9 @@
 
 <p align="left">📚 At 42, intensive use of C allowed me to develop a strong foundation in programming logic, data structures, and algorithms, while teamwork and peer-to-peer methodology honed my communication and collaboration skills.</p>
 
-<p align="left">💻 I am developing my skills as a Back-End Developer | Enthuastic about new technologies</p>
+<p align="left">💻 I am a Network Analyst, focused on IT infrastructure, connectivity, and network security | Enthuastic about new technologies</p>
 
-<p align="left">⚡ Fun fact: I 💖 to code 24x7.</p>
+<p align="left">⚡ Fun fact: I HATE IPv6.</p>
 <br>
 <br>
 <br>
@@ -18,7 +18,7 @@
 <h1 align="center">Connect With My</h1>
 <div align="center">
     <p align="center">
-        <a target="blank" href="https://www.linkedin.com/in/rafael-ferro-b97091288/">
+        <a target="blank" href="https://www.linkedin.com/in/brendongomesbachie/">
             <img align="center" style="margin-right: 10px;"
                 src="https://skillicons.dev/icons?i=linkedin"
                 title="linkedin"
@@ -26,7 +26,7 @@
         </a>
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=discord"
-            title="raphae_lx"
+            title="brendonbachie"
         alt="discord"/>    
     </p>
 </div>
@@ -41,7 +41,7 @@
             title="C"
         alt="C"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=cs"
+            src="https://skillicons.dev/icons?i=py"
             title="CS"
         alt="CS"/>
         <img align="center" style="margin-right: 10px;"
@@ -49,15 +49,15 @@
             title="bash"
         alt="bash"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=js"
+            src="https://skillicons.dev/icons?i=debian"
             title="JS"
         alt="JS"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=html"
+            src="https://skillicons.dev/icons?i=linux"
             title="HTML"
         alt="HTML"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=css"
+            src="https://skillicons.dev/icons?i=redhat"
             title="CSS"
         alt="CSS"/>
         <h3 align="center">Technologies and Tools</h3>
@@ -66,11 +66,11 @@
             title="Git"
         alt="Git"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=linux"
+            src="https://skillicons.dev/icons?i=ubuntu"
             title="Linux"
         alt="Linux"/>
         <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=cloudflare"
+            src="https://skillicons.dev/icons?i=kali"
             title="CloudFlare"
         alt="CloudFlare"/>
     </p>
